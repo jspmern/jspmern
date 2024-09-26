@@ -12,9 +12,7 @@
 - 👯 I’m looking to collaborate on **MERN Stack Developer**
 
 - 🤝 I’m looking for help with **MERN Stack Developer**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/utsav-kumar-jha-97b72b209/](https://www.linkedin.com/in/utsav-kumar-jha-97b72b209/)
-
+ 
 - 💬 Ask me about **React,Redux,Express,Node,Auth**
 
 - 📫 How to reach me **utsavmaithili@gmail.com**
