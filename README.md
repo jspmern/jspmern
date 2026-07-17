@@ -436,7 +436,7 @@ Applications designed with authentication, authorization, identity providers, ap
   <img src="https://img.shields.io/badge/GitHub-jspmern-181717?style=for-the-badge&logo=github&logoColor=white" alt="Utsav's GitHub"/>
 </a>
 
-<a href="https://instagram.com/mahnameisutsav">
+<a href="https://instagram.com/jha_utsav_">
   <img src="https://img.shields.io/badge/Instagram-mahnameisutsav-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Utsav's Instagram"/>
 </a>
 
