@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Utsav%20Kumar%20Jha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=60&descSize=19&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Production-Ready+AI+Applications;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;LangChain+%7C+LangGraph+%7C+Agentic+AI;MCP+%7C+RAG+%7C+OpenAI+%7C+Claude;Monorepo+%7C+Docker+%7C+AWS;Turning+Complex+Ideas+Into+Scalable+Products" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Production-Ready+AI+Applications;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript+%7C+Python;FastAPI+%7C+Pydantic+%7C+PostgreSQL;LangChain+%7C+LangGraph+%7C+Agentic+AI;MCP+%7C+RAG+%7C+OpenAI+%7C+Claude;Monorepo+%7C+Docker+%7C+AWS;Turning+Complex+Ideas+Into+Scalable+Products" alt="Typing introduction" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 I am a **Full Stack AI Engineer** who combines modern web engineering with Generative AI to build reliable, maintainable, and production-oriented applications.
 
-My experience spans the complete application lifecycle—from designing responsive interfaces with **React, Next.js, and TypeScript**, to developing secure backend systems using **Node.js, Express.js, MongoDB, Mongoose, authentication, authorization, and enterprise identity providers**.
+My experience spans the complete application lifecycle—from designing responsive interfaces with **React, Next.js, and TypeScript**, to developing secure backend systems using **Node.js, Express.js, Python, FastAPI, Pydantic, MongoDB, PostgreSQL, Mongoose, authentication, authorization, and enterprise identity providers**.
 
 I also design AI-powered applications using **LangChain, LangGraph, OpenAI, Claude, Pinecone, RAG, and Model Context Protocol**. My focus is not limited to simple chatbot integrations; I work on systems that can reason, retrieve knowledge, call business tools, maintain memory, request human approval, enforce permissions, and complete multi-step workflows safely.
 
@@ -46,16 +46,20 @@ I also design AI-powered applications using **LangChain, LangGraph, OpenAI, Clau
 * RAG and vector-search systems
 * Enterprise authentication and RBAC
 * Secure APIs and scalable backend design
+* Python backend development with FastAPI and Pydantic
+* PostgreSQL database design and integration
 * AI streaming, memory, and guardrails
 * Monorepo and modular application architecture
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⚙️ How I Engineer
 
 * Clean and maintainable code
 * Strong TypeScript practices
+* Clean Python backend practices
 * Reusable and modular components
 * Security-first application design
 * Structured validation and error handling
@@ -91,11 +95,11 @@ Agentic AI applications that can reason, call tools, retrieve knowledge, maintai
 
 **Includes**
 
-`LangChain`
-`LangGraph`
-`MCP`
-`RAG`
-`Tool Calling`
+`LangChain`  
+`LangGraph`  
+`MCP`  
+`RAG`  
+`Tool Calling`  
 `Multi-Agent Systems`
 
 </td>
@@ -108,11 +112,15 @@ Modern full-stack applications with responsive interfaces, secure APIs, reliable
 
 **Includes**
 
-`Next.js`
-`React`
-`Node.js`
-`Express.js`
-`MongoDB`
+`Next.js`  
+`React`  
+`Node.js`  
+`Express.js`  
+`Python`  
+`FastAPI`  
+`Pydantic`  
+`MongoDB`  
+`PostgreSQL`  
 `TypeScript`
 
 </td>
@@ -125,11 +133,11 @@ Applications designed with authentication, authorization, identity providers, ap
 
 **Includes**
 
-`JWT`
-`RBAC`
-`OAuth`
-`MSAL`
-`PingOne`
+`JWT`  
+`RBAC`  
+`OAuth`  
+`MSAL`  
+`PingOne`  
 `Human Approval`
 
 </td>
@@ -204,6 +212,12 @@ Applications designed with authentication, authorization, identity providers, ap
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
 
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
@@ -211,6 +225,8 @@ Applications designed with authentication, authorization, identity providers, ap
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
@@ -377,7 +393,6 @@ Applications designed with authentication, authorization, identity providers, ap
 </p>
 
 <br/>
-
 # 📊 GitHub Intelligence
 
 <div align="center">
@@ -452,7 +467,8 @@ Applications designed with authentication, authorization, identity providers, ap
 
 ### 💬 Ask Me About
 
-`React` · `Next.js` · `Node.js` · `Express.js` · `TypeScript` · `MongoDB`
+`React` · `Next.js` · `Node.js` · `Express.js` · `Python` · `FastAPI` · `Pydantic` · `TypeScript` · `MongoDB` · `PostgreSQL`
+
 `LangChain` · `LangGraph` · `MCP` · `RAG` · `Agentic AI` · `System Design`
 
 <br/>
